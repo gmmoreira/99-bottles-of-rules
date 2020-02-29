@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     minitest (5.11.3)
-    rake (10.5.0)
+    rake (12.3.3)
     wongi-engine (0.3.4)
 
 PLATFORMS
@@ -11,7 +11,7 @@ PLATFORMS
 DEPENDENCIES
   bundler (~> 1.17)
   minitest (~> 5.0)
-  rake (~> 10.0)
+  rake (~> 12.3)
   wongi-engine (~> 0.3.0)
 
 BUNDLED WITH
